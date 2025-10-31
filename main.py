@@ -6,7 +6,7 @@ import unicodedata
 
 # === Configuración ===
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-ruta_imagen = r"D:\Mirko\MedicalFarma\pdfs\imagenprueba.png"
+ruta_imagen = r"D:\Mirko\MedicalFarma\pdfs\imagenprueba2.png"
 salida_csv = "resultado.csv"
 
 # === 1. Preprocesamiento ===
